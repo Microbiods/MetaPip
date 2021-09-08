@@ -166,13 +166,12 @@ Where 'EPCNN_EV' is using EPCNN for prediction.  '--fn' means datasets. '--et' m
 
 ### Options
 
-    -fn --fn,       dataset 
+    -fn, --fn		Dataset 
                      
-    -et --et,       earlystopping
+    -et, --et		Earlystopping
                         
-    -ts --ts,       the ratio of test data
+    -ts, --ts		The ratio of test data
                           
-    -rs --rs,       repeat times
+    -rs, --rs		Repeat times
     
-    -tp --tp,       number of select features
-    
+    -tp, --tp		Number of select features
